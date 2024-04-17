@@ -99,7 +99,7 @@ OVH Data Fetcher is a Node.js Express server designed to fetch the expiration in
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get the script up and running follow these simple steps.
+To get the server up and running follow these simple steps.
 
 ### Prerequisites
 
