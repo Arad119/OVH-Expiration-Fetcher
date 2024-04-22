@@ -177,7 +177,7 @@ Project Link: [https://github.com/Arad119/OVH-Expiration-Fetcher](https://github
 [stars-url]: https://github.com/Arad119/OVH-Expiration-Fetcher/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Arad119/OVH-Expiration-Fetcher.svg?style=for-the-badge
 [issues-url]: https://github.com/Arad119/OVH-Expiration-Fetcher/issues
-[license-shield]: https://img.shields.io/github/license/Arad119/OVH-Expiration-Fetche.svg?style=for-the-badge
-[license-url]: https://github.com/Arad119/OVH-Expiration-Fetche/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/Arad119/OVH-Expiration-Fetcher.svg?style=for-the-badge
+[license-url]: https://github.com/Arad119/OVH-Expiration-Fetcher/blob/master/LICENSE.txt
 [product-screenshot]: images/Program.png
 [product-preview]: images/Output.png
