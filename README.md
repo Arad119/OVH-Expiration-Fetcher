@@ -27,11 +27,6 @@
 
   <p align="center">
     An Express server which fetches expiration date from the OVH API.
-    <br />
-    <br />
-    <a href="https://github.com/Arad119/OVH-Expiration-Fetcher/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Arad119/OVH-Expiration-Fetcher/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,9 +51,7 @@
         <li><a href="#usage">Usage</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -129,42 +122,12 @@ Once the server is running, you can access the OVH data by sending a GET request
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Twitter [@Arad119](https://twitter.com/Arad119) - Email contact@arad119.com
-
-Project Link: [https://github.com/Arad119/OVH-Expiration-Fetcher](https://github.com/Arad119/OVH-Expiration-Fetcher)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
